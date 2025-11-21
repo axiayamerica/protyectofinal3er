@@ -1,0 +1,5 @@
+90|blusa corta|100|juvenil
+87|pantalon cargo|400|juvenil
+65|bolso blanco|300|juvenil
+47|brazalete dorado|350|accesorios
+34|zapatillas doradas|500|calzado
